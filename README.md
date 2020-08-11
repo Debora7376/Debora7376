@@ -14,5 +14,6 @@ Meu nome é Débora Ferreira, Graduando Analise e Desenvolvimento de Sistemas e 
 - :blue_heart: Techs: JavaScript, Flutter, HTML5, CSS3, Git e entre outras.
 - :books: Estudando React.js, React Native, Node.js e TypeScript :heart:
 
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Debora7376&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
