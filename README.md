@@ -13,6 +13,10 @@ Meu nome é Débora Ferreira, Graduando Analise e Desenvolvimento de Sistemas e 
  <a><img src="https://github-readme-stats.vercel.app/api?username=debora7376&show_icons=true&theme=graywhite" /></a>
 </p> 
 
+<a href="https://github.com/debora7376?tab=repositories">
+  <img src="https://badges.pufler.dev/repos/debora7376?logo=GitHub&label=Github%20repositories&color=blue&logoColor=white&style=flat-square" alt="github repositories count" />
+</a>
+<br />
 
 
 <h3><b>Things I code with</b> <img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50"> </h3>
