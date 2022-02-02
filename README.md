@@ -33,7 +33,11 @@ Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi
   <a href = "mailto:devsouza.root@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/debora7376" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a target="_blank" href="https://t.me/debora7376" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
+ </div>
+<br><br>
+ <div>
+  <img align="center" alt="Pixel-Art" width="1000px" src="https://github.com/Debora7376/Debora7376/blob/master/kikachan87.gif"/>
+</div>
  
  ![github contribution grid snake animation](https://raw.githubusercontent.com/debora7376/debora7376/output/github-contribution-grid-snake.svg)
  
-</div>
