@@ -3,16 +3,13 @@ Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi
 - :blue_heart: Techs: JavaScript, Flutter, HTML5, CSS3, Git ...
 - :computer: I’m currently working : Java, Database, Servers e API.
 - :books: Studying React.js, React Native, Node.js e TypeScript :heart:
-
- ![](https://komarev.com/ghpvc/?username=debora7376&color=604cae&label=PROFILE+VIEWS)
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDebora7376&count_bg=%235B45B2&title_bg=%23555555&icon=gnuicecat.svg&icon_color=%23E7E7E7&title=HOME+PAGES+VIEWS&edge_flat=false"/></a>
-
+ <br>
+ 
  <div>
   <a href="https://github.com/debora7376">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=debora7376&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debora7376&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=debora7376&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debora7376&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Devroot-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
