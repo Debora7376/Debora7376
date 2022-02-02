@@ -1,7 +1,7 @@
 Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm  Débora Ferreira</h1>
 
-- :blue_heart: Techs: JavaScript, Flutter, HTML5, CSS3, Git e entre outras.
-- :computer: I’m currently working : Java, Banco de Dados, Servidores e API.
+- :blue_heart: Techs: JavaScript, Flutter, HTML5, CSS3, Git ...
+- :computer: I’m currently working : Java, Database, Servers e API.
 - :books: Studying React.js, React Native, Node.js e TypeScript :heart:
 
  ![](https://komarev.com/ghpvc/?username=debora7376&color=604cae&label=PROFILE+VIEWS)
