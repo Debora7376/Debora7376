@@ -32,7 +32,7 @@ Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi
 <a target="_blank" href="https://t.me/debora7376" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <br><br>
  <div>
-  <img align="center" alt="Pixel-Art" width="900" src="https://github.com/Debora7376/Debora7376/blob/master/kikachan87.gif"/>
+  <img align="center" alt="Pixel-Art" width="800" src="https://github.com/Debora7376/Debora7376/blob/master/kikachan87.gif"/>
 </div>
  
 
