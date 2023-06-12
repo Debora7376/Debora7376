@@ -1,4 +1,4 @@
-Hi 👋🏻, I'm  Débora Ferreira</h1>
+Hi 👋🏻, I'm  Débora Ferreira.</h1>
 
 - :blue_heart: Techs: JavaScript, Flutter, HTML5, CSS3, Git ...
 - :computer: I’m currently working : Java, Database, Servers e API.
